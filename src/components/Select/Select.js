@@ -33,7 +33,6 @@ const Select = ({ label, value, children, ...delegated }) => {
 };
 
 const Wrapper = styled.label`
-  max-width: fit-content;
   display: flex;
   align-items: baseline;
 `;
